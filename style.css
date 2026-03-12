@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
+
+
+ h1{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+ }
+
+ .pipoca {
+    height: 80px;
+    width: 80px;
+    
+ }
+button{
+    size: 100%
+}
+body {
+    background-color: black;
+}
+a {
+          font-size: 30px;
+color: red;
+}
+h2{
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.cabecalho{
+  background-color: rgb(31, 29, 29);
+    height: 100px;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 750px;
+   
+}
+
+.divPai{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding-left: 80px;
+    padding-right: 50px;
+   
+}
+
+.imagem{
+    height: 550px;
+    width: 400px;
+}
+
+*{
+    margin: 0 ;
+}
+
+button{
+
+    height: 50px;
+    width: 500px;
+    color:red ;
+    background-color: rgb(31, 29, 29);
+    border-style: groove;
+}
+
+body{
+    background-color: black;
+}
